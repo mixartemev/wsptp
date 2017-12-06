@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * Server from deepMiner v1.1 by evil7@deePwn
  */
