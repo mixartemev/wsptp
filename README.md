@@ -10,5 +10,5 @@ yarn add wsptp
 ## Run
 
 ```bash
-node server.js
+node node_modules/wsptp/server.js
 ```
