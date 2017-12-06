@@ -1,0 +1,16 @@
+{
+  "name": "wsptp",
+  "version": "1.0.0",
+  "description": "WebSocket proxy to pool",
+  "repository": "https://github.com/mixartemev/wsptp",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "blurpix",
+  "license": "MIT"
+}
